@@ -1,4 +1,4 @@
-# add .env (root)
+# add .env in the root (.env in the email)
 # npm install
 # npm start
-# use the credentials in the .env
+# use the credentials in the .env to login
